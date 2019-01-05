@@ -1,7 +1,3 @@
-"""
-@author: 748309
-"""
-
 from sklearn import tree
 from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB
